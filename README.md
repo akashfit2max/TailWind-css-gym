@@ -5,7 +5,7 @@ This website is created using Tailwind CSS framework with a little amount of AOS
 Tailwinds CSS predefined class.
 
 
-tailwind css fame work here : htt ps://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+tailwind css fame work here : https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
 
 AOS : https://michalsnik.github.io/aos/
 
