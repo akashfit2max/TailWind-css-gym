@@ -1,7 +1,7 @@
 # TailWind-css-gym
 TailWindCss Creations
 
-This website is created using Tailwind CSS framework with a little amount of AOS i.e animation on scroll . There is no css file required here everrything is done 
+This website is created using Tailwind CSS framework with a little amount of AOS i.e animation on scroll . There is no css file required here everrything is done using
 Tailwinds CSS predefined class.
 
 
